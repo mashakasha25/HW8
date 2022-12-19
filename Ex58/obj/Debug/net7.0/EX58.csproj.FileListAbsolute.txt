@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\bin\Debug\net7.0\EX58.exe
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\bin\Debug\net7.0\EX58.deps.json
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\bin\Debug\net7.0\EX58.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\bin\Debug\net7.0\EX58.dll
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\bin\Debug\net7.0\EX58.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.dll
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\refint\EX58.dll
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.pdb
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\EX58.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\задания\Двумерные массивы. Продолжение\HW8\EX58\obj\Debug\net7.0\ref\EX58.dll
